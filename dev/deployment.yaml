@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: boracon/webapp:v4
+        image: boracon/webapp:v3
         ports:
         - containerPort: 8080
